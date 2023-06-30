@@ -155,9 +155,6 @@ function galerie_filtres()
     galeriePhotos($query, true);
 
     wp_die();
-    // }
-    // add_action('wp_ajax_nopriv_galerie_filtres', 'galerie_filtres');
-    // add_action('wp_ajax_galerie_filtres', 'galerie_filtres');
 
     wp_reset_query(); // Réinitialise la requête
     wp_reset_postdata(); // Réinitialise les données de publication

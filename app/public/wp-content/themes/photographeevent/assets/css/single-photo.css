@@ -43,20 +43,6 @@
   min-height: 397px;
 }
 
-/* .photo img {
-    height: 100%;
-} */
-
-/* .photo-single:hover .icon-fullscreen {
-  opacity: 1;
-} */
-/* 
-.info-photo .photo-single:first-child {
-  height: 69vw;
-  min-height: 360px;
-  position: relative;
-  display: inline-block;
-} */
 
     /* section "cette photo vous interesse?" */
 
@@ -177,8 +163,6 @@
 }
 
 
-
-
 @media all and (max-width: 680px){
  
   .photo-info {
@@ -216,64 +200,7 @@
 }
 
 }
-  /* .more {
-    border-top: 1px solid black;
-    padding-left: 3%;
-  }
-
-  .more-slider {
-    display: none;
-  } */
-
-  /* .more, .aimez-aussi-titre, .galerie.background, .aimez-aussi-btn-conatainer {
-    background-color: #E5E5E5;
-    margin: 0 5%;
-  }
-
-  .galerie.background.galerie-container {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .btn-CTA {
-    height: 38px;
-    background-color: white;
-    border: transparent;
-    font-family: 'space-mono';
-    font-size: 14px;
-    box-shadow: none;
-    padding: 0 15px;
-    cursor: pointer;
-    position: relative;
-    z-index: 0;
-  
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  
-    transition: .5s all ease-in-out;
-  }
-  
-  .btn-CTA::before {
-    content: '';
-    position: absolute;
-    background: black;
-    width: 3px;
-    height: 38px;
-    left: 0;
-    transition: .2s all;
-    z-index: -1;
-  }
-
-  .btn-CTA:hover {
-    color: #ffffff;
-  }
-  
-  .btn-CTA:hover::before {
-    width: 100%;
-  }
-} */
-
+ 
 @media all and (max-width: 580px){
   
   .info {

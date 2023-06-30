@@ -21,6 +21,7 @@ const menu = document.querySelector('.open_nav')
 // quand l'utilisateur clique sur le bouton, la liste des liens s'ouvre ou se ferme
 menuBtn.addEventListener('click', function() {
   menu.classList.toggle('open')
+  menuBtn.classList.toggle('open-nav')
 })
 
 

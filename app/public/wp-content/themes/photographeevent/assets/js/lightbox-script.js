@@ -6,9 +6,6 @@ let listOfInfo = [];
 
 // Fonction pour ouvrir la lightbox
 
-// document.querySelectorAll('.icon-fullscreen').forEach((icon) => {
-//     icon.addEventListener('click', function(e) {
-
 onDocumentLoad();
 
 //appelé quand la requete ajax termne 

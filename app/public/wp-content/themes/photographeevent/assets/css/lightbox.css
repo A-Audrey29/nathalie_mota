@@ -17,6 +17,10 @@
     visibility: visible;
 }
 
+.lightbox-img-info {
+    width: 100%;
+}
+
 .lightbox-container {
     width: 80%;
     height: 82vh;
@@ -31,8 +35,9 @@
 }
 
 .lightbox-container img{
-    max-width: 90% !important;
-    max-height: 82vh;
+    /* max-width: 90% !important;
+    max-height: 82vh; */
+    width: 73%;
     margin: auto;
 }
 
@@ -88,7 +93,7 @@
 }
 
 .lightbox-photo-info {
-    margin-left: 5%;
+    margin-left: 14%;
 }
 
 .lightbox-titre {

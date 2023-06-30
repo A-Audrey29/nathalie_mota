@@ -1,4 +1,4 @@
-<!-- intégration image medium 1/1 de la galerie -->
+<!-- intégration des images dans les galerie home et single -->
 
 <?php
 
@@ -18,7 +18,6 @@ $categories = get_terms(array(
 ));
 
 ?>
-
 
 
 <div class="galerie-photo">
